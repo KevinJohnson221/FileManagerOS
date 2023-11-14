@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">File Manager OS</string>
+    <string name="file_manager_os">File Manager OS</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+</resources>
