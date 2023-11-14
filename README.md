@@ -1,5 +1,9 @@
 # FileManagerOS
 
+Designed to allow the user to organize and manage files/folders that are stored on the Android device (basic funtions include delete, rename, copy, paste, etc.)
+Associates an icon with each file based on its type to improve user recognition.
+Purpose was to improve data organization and accessibilty.
+
 ## Features:
 - Allow the user to organize and manage files/folders that are stored on the device. 
 - Allow the user to delete, rename, copy, and paste files.
